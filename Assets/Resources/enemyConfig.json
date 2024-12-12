@@ -1,0 +1,53 @@
+{
+  "enemies": [
+    {
+      "enemyType": "EnemyType1",
+      "spriteIndex": 0,
+      "lives": 1,
+      "scoreValue": 10,
+      "color": [ 0.9, 0.2, 0.4 ]
+    },
+    {
+      "enemyType": "EnemyType2",
+      "lives": 1,
+      "spriteIndex": 1,
+      "scoreValue": 20,
+      "color": [ 0.2, 0.2, 0.8 ]
+    },
+    {
+      "enemyType": "EnemyType3",
+      "lives": 2,
+      "spriteIndex": 2,
+      "scoreValue": 30,
+      "color": [ 0.2, 0.8, 0.4 ]
+    },
+    {
+      "enemyType": "EnemyType4",
+      "lives": 2,
+      "spriteIndex": 3,
+      "scoreValue": 40,
+      "color": [ 0.8, 0.8, 0.4 ]
+    },
+    {
+      "enemyType": "EnemyType5",
+      "lives": 3,
+      "spriteIndex": 4,
+      "scoreValue": 50,
+      "color": [ 0.8, 0.5, 0.5 ]
+    },
+    {
+      "enemyType": "EnemyType6",
+      "lives": 3,
+      "spriteIndex": 3,
+      "scoreValue": 60,
+      "color": [ 0.4, 0.1, 0.5 ]
+    },
+    {
+      "enemyType": "EnemyType7",
+      "lives": 4,
+      "spriteIndex": 2,
+      "scoreValue": 70,
+      "color": [ 0.4, 0.8, 0.1 ]
+    }
+  ]
+}

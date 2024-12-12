@@ -1,0 +1,40 @@
+{
+	"waves": [
+		{
+			"enemies": [
+				"EnemyType3",
+				"EnemyType2",
+				"EnemyType2",
+				"EnemyType1",
+				"EnemyType1"
+			]
+		},
+		{
+			"enemies": [
+				"EnemyType4",
+				"EnemyType3",
+				"EnemyType3",
+				"EnemyType2",
+				"EnemyType2"
+			]
+		},
+		{
+			"enemies": [
+				"EnemyType5",
+				"EnemyType4",
+				"EnemyType4",
+				"EnemyType3",
+				"EnemyType3"
+			]
+		},
+		{
+			"enemies": [
+				"EnemyType7",
+				"EnemyType6",
+				"EnemyType1",
+				"EnemyType1",
+				"EnemyType1"
+			]
+		}
+	]
+}

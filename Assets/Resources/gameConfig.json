@@ -1,0 +1,13 @@
+{
+	"enemiesPerRow": 10,
+	"enemiesStartMoveSpeed": 1.8,
+	"enemiesMinMoveSpeed": 0.05,
+	"enemiesMoveDistance": 0.1,
+	"enemiesMaxMoveDistance": 0.3,
+	"enemyKillSpeedUp": 0.045,
+	"enemyKillDistanceUp": 0.01,
+	"enemyKillPauseTime": 0.25,
+	"enemiesDownMoveAmount": 0.5,
+	"enemyXSpacing": 1.5,
+	"enemyYSpacing": 1.5
+}

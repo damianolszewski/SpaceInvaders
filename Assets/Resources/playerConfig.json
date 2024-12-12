@@ -1,0 +1,5 @@
+{
+	"lives": 3,
+  "moveSpeed": 6.0,
+  "fireRate": 0.66
+}
